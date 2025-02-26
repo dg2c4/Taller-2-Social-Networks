@@ -41,10 +41,10 @@ descripciones de los commit que se hagan al repositorio.
 
 ## *Entregables:*
 Únicamente el líder del equipo realizará la entrega del taller por medio del aula virtual (Taller 2 y 3: Repositorios de
-código y Desarrollo web) y el entregable es:
-• Documento que contenga (Portada, Introducción, Enlace al repositorio de GitHub, integrantes).
-• Enlace a la página publicada con GitHub Pages
-• Capturas de pantalla de GitKraken donde se evidencien los aportes de cada integrante del equipo.
+código y Desarrollo web) y el entregable es:\
+• Documento que contenga (Portada, Introducción, Enlace al repositorio de GitHub, integrantes).\
+• Enlace a la página publicada con GitHub Pages.\
+• Capturas de pantalla de GitKraken donde se evidencien los aportes de cada integrante del equipo.\
 • Declaración de uso de Inteligencia Artificial.
 
 
