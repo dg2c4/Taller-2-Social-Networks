@@ -11,7 +11,7 @@ Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el mane
 
 ## *Instalaciones requeridas:* 
     • Git: https://git-scm.com/downloads
-    • GitKraken: https://www.gitkraken.com/git-client/try-free Al instalar esta herramienta se puede utilizer la opción
+    • GitKraken: https://www.gitkraken.com/download
     • GitHub: https://github.com/
 
 ## *Requerimientos:*
