@@ -3,7 +3,7 @@
   <img width="600" height="750" src="" alt="">
 </p> -->
 
-# *Link Del Trabajo Realizado:*
+## *Link Del Trabajo Realizado:*
     https://
 
 ## *Objetivo:* 
@@ -15,29 +15,20 @@ Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el mane
     • GitHub: https://github.com/
 
 ## *Requerimientos:*
-
- El líder de equipo debe realizar el primer commit subiendo los archivos base del sitio web como se explica más
-abajo en el ANEXO 1 – Tarea Líder.
- Al final, el objetivo es construir un sitio web para incluir en este la información del tema asignado considerando
-las siguientes secciones/páginas para su sitio web:
-o Inicio: en esta sección se debe presentar el tema seleccionado. Para ello pida a ChatGPT que le
+• Inicio: en esta sección se debe presentar el tema seleccionado. Para ello pida a ChatGPT que le
 genere un resumen de dicho tema. Además, incluya una imagen alusiva al tema (hacer uso de
-imágenes libres de derechos, puede usar la página de Pixabay: https://pixabay.com/ )
-o Secciones: dividir la temática asignada en n secciones/páginas (una por cada integrante). Cada
+imágenes libres de derechos, puede usar la página de Pixabay: https://pixabay.com/)\
+• Secciones: dividir la temática asignada en n secciones/páginas (una por cada integrante). Cada
 integrante del equipo debe agregar su sección/página con su respectivo contenido utilizando diversidad
-de elementos HTML, estilos CSS personalizados y funciones JavaScript.
-o Conclusiones: Cada integrante del equipo debe escribir una conclusión sobre la temática
-seleccionada en sus propias palabras.
-o Equipo: en esta sección deben presentar el perfil de los integrantes del equipo. No colocar datos
-personales.
- En la entrega a realizar se debe evidenciar la participación de todos los integrantes del equipo, esto se
-verificará por medio de los commit. Además, como cada integrante tiene a cargo una sección/página, se debe
-evidenciar sus aportes. Por ello, es muy importante especificar en cada commit los cambios realizados.
- Por cada integrante del equipo se deben evidenciar al menos 10 commit.
-o Ver ANEXO 1 de esta guía donde se explica cómo hacer los commit, Push y Pull.
- Se quitarán 2 puntos por cada error de ortografía que se identifique en las interfaces del sitio web o en las
-descripciones de los commit que se hagan al repositorio.
-
+de elementos HTML, estilos CSS personalizados y funciones JavaScript.\
+• Conclusiones: Cada integrante del equipo debe escribir una conclusión sobre la temática
+seleccionada en sus propias palabras.\
+• Equipo: en esta sección deben presentar el perfil de los integrantes del equipo. No colocar datos
+personales.\
+• En la entrega a realizar se debe evidenciar la participación de todos los integrantes del equipo, esto se
+verificará por medio de los commit.\
+• Cada integrante tiene a cargo una sección/página, se debe evidenciar sus aportes. Por ello, especificar en cada commit los cambios realizados.\
+• Por cada integrante del equipo se deben evidenciar al menos 10 commit.
 
 ## *Entregables:*
 Únicamente el líder del equipo realizará la entrega del taller por medio del aula virtual (Taller 2 y 3: Repositorios de
