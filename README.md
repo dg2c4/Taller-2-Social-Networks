@@ -1,7 +1,7 @@
 # *Taller #2 Social Networks*
-<p align="center">
+<!-- <p align="center">
   <img width="600" height="750" src="" alt="">
-</p>
+</p> -->
 
 # *Link Del Trabajo Realizado:*
     https://
@@ -10,13 +10,12 @@
 Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el manejo de un repositorio de código atendiendo a la temática asignada.
 
 ## *Instalaciones requeridas:* 
-    Git: https://git-scm.com/downloads
-    GitKraken: https://www.gitkraken.com/git-client/try-free Al instalar esta herramienta se puede utilizer la opción
-    GitHub: https://github.com/
+    • Git: https://git-scm.com/downloads
+    • GitKraken: https://www.gitkraken.com/git-client/try-free Al instalar esta herramienta se puede utilizer la opción
+    • GitHub: https://github.com/
 
 ## *Requerimientos:*
-Por equipo deben seleccionar un tema de desarrollo.
- Seleccionar un líder del equipo.
+
  El líder de equipo debe realizar el primer commit subiendo los archivos base del sitio web como se explica más
 abajo en el ANEXO 1 – Tarea Líder.
  Al final, el objetivo es construir un sitio web para incluir en este la información del tema asignado considerando
