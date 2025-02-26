@@ -51,7 +51,7 @@ código y Desarrollo web) y el entregable es:\
 | Declaración de uso de IA | 3 pts |
 | Total | 50 pts |
 
-# *Systems engineering:*
+## *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
