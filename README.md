@@ -15,18 +15,13 @@ Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el mane
     • GitHub: https://github.com/
 
 ## *Requerimientos:*
-• Inicio: en esta sección se debe presentar el tema seleccionado. Para ello pida a ChatGPT que le
-genere un resumen de dicho tema. Además, incluya una imagen alusiva al tema (hacer uso de
-imágenes libres de derechos, puede usar la página de Pixabay: https://pixabay.com/)\
-• Secciones: dividir la temática asignada en n secciones/páginas (una por cada integrante). Cada
-integrante del equipo debe agregar su sección/página con su respectivo contenido utilizando diversidad
-de elementos HTML, estilos CSS personalizados y funciones JavaScript.\
-• Conclusiones: Cada integrante del equipo debe escribir una conclusión sobre la temática
-seleccionada en sus propias palabras.\
-• Equipo: en esta sección deben presentar el perfil de los integrantes del equipo. No colocar datos
-personales.\
-• En la entrega a realizar se debe evidenciar la participación de todos los integrantes del equipo, esto se
-verificará por medio de los commit.\
+• Inicio: en esta sección se debe presentar el tema seleccionado. 
+• Incluir imagenes alusivaa al tema.\
+• Secciones: dividir la temática asignada en # secciones/páginas (1xIntegrante). 
+• Cada integrante del equipo debe agregar su sección/página con su respectivo contenido utilizando diversidad de elementos HTML, estilos CSS personalizados y funciones JavaScript.\
+• Conclusiones: Cada integrante del equipo debe escribir una conclusión sobre la temática seleccionada en sus propias palabras.\
+• Equipo: en esta sección deben presentar el perfil de los integrantes del equipo. No colocar datos personales.\
+• En la entrega a realizar se debe evidenciar la participación de todos los integrantes del equipo, esto se verificará por medio de los commit.\
 • Cada integrante tiene a cargo una sección/página, se debe evidenciar sus aportes. Por ello, especificar en cada commit los cambios realizados.\
 • Por cada integrante del equipo se deben evidenciar al menos 10 commit.
 
