@@ -1,10 +1,10 @@
 # *Taller #2 Social Networks*
 <p align="center">
-  <img width="600" height="750" src="Assets/" alt="">
+  <img width="600" height="750" src="" alt="">
 </p>
 
 # *Link Del Trabajo Realizado:*
-    https://dg2c4.github.io/Desarrollo-De-Nuevas-Tecnologias-Data-Base/
+    https://
 
 ## *Objetivo:* 
 Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el manejo de un repositorio de código atendiendo a la temática asignada.
