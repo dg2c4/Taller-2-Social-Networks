@@ -1,10 +1,7 @@
 # *Taller #2 Social Networks*
-<!-- <p align="center">
+<p align="center">
   <img width="600" height="750" src="" alt="">
-</p> -->
-
-## *Link Del Trabajo Realizado:*
-    https://
+</p> 
 
 ## *Objetivo:* 
 Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el manejo de un repositorio de código atendiendo a la temática asignada.
