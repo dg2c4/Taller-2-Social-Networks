@@ -1,7 +1,8 @@
 # *Taller #2 Social Networks*
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/Social-Networks-Inc.webp" alt="Redes">
+  <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/Social-Networks-Inc.webp" alt="Social Networks">
 </p>
+
 ## *Objetivo:* 
 Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el manejo de un repositorio de código atendiendo a la temática asignada.
 
