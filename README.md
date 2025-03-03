@@ -1,6 +1,6 @@
 # *Taller #2 Social Networks*
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/Social-Networks-Inc.webp" alt="Social Networks">
+  <img width="800" height="500" src="https://github.com/dg2c4/Taller-2-Social-Networks/blob/main/assets/img/Social-Networks-Inc.webp" alt="Social Networks">
 </p>
 
 ## *Objetivo:* 
