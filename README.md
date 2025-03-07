@@ -1,4 +1,4 @@
-# *Taller #2 Social Networks*
+# *Taller-#2-Social-Networks*
 <p align="center">
   <img width="800" height="500" src="https://github.com/dg2c4/Taller-2-Social-Networks/blob/main/assets/img/Social-Networks-Inc.webp" alt="Social Networks">
 </p>
