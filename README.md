@@ -1,35 +1,93 @@
 # *Taller-#2-Social-Networks*
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Taller-2-Social-Networks/blob/main/assets/img/Social-Networks-Inc.webp" alt="Social Networks">
+  <img width="800" height="500" src="https://github.com/dg2c4/Taller-2-Social-Networks/blob/main/assets/Logo-OrioTech-Company.jpeg" alt="Social Networks">
 </p>
 
+## *Link acceso:* 
+    https://dg2c4.github.io/Taller-2-Social-Networks/
+
 ## *Objetivo:* 
-Desarrollar un sitio web utilizando HTML, CSS y JavaScript que involucre el manejo de un repositorio de código atendiendo a la temática asignada.
+OrionThech company, surge con la idea de innovar y desarrollar un nuevo espacio en el gran paradigma de la tecnología, abarcando campos como el desarrollo, 
+diseño, programación, visualización, analitica de datos entre otras. Estamos comenzando con uno de los pasos que necesitamos llegar a cubrir para llevar
+esta idea a ser de gran escala en los proximos años; logrando hitos clave en la planeación y estructuración de lo que será esta compañia.
 
 ## *Instalaciones requeridas:* 
     • Git: https://git-scm.com/downloads
     • GitKraken: https://www.gitkraken.com/download
     • GitHub: https://github.com/
 
-## *Requerimientos:*
-• Inicio: en esta sección se debe presentar el tema seleccionado. 
-• Incluir imagenes alusivaa al tema.\
-• Secciones: dividir la temática asignada en # secciones/páginas (1xIntegrante). 
-• Cada integrante del equipo debe agregar su sección/página con su respectivo contenido utilizando diversidad de elementos HTML, estilos CSS personalizados y funciones JavaScript.\
-• Conclusiones: Cada integrante del equipo debe escribir una conclusión sobre la temática seleccionada en sus propias palabras.\
-• Equipo: en esta sección deben presentar el perfil de los integrantes del equipo. No colocar datos personales.\
-• En la entrega a realizar se debe evidenciar la participación de todos los integrantes del equipo, esto se verificará por medio de los commit.\
-• Cada integrante tiene a cargo una sección/página, se debe evidenciar sus aportes. Por ello, especificar en cada commit los cambios realizados.\
-• Por cada integrante del equipo se deben evidenciar al menos 10 commit.
+## *Navegación:*
+• Nosotros: Presentación compañia OrionTech Company.
+• OrionTech: Diseño corporativo, información general y equipo de desarrollo.
+• Comunidad: Presentación de nuestros colaboradores.
+• Feed: Publicaciones y post de nuestros usuarios en social network.
+• Mas+: se divide en 3 secciones:
+         • OrionTech: Presentación Blog, perfil corporativo (noticias, eventos, post).
+         • Ing.David: Presentación perfil corporativo personal.
+         • Ing.Nicolas: Presentación perfil corporativo personal.
+• Contact: Formulario de contactenos OrionTech Company.
+
+# *Unix tree:*
+```Taller-2-Social-Networks
+├───assets
+│   ├───DaidData
+│   ├───NickData
+│   ├───Potho-Data
+│   ├───Usuarios
+│
+├───css
+|   ├───style.css
+|   ├───style.min.css
+|
+├───img
+├───js
+|   ├───main.js
+|
+├───lib
+|   ├───easing
+|   |   ├───easing.js
+|   |   ├───easing.min.js
+|   ├───owlcarousel.js
+|   |   ├───assets
+|   |       ├───LICENSE
+|   |       ├───owl.carousel.js
+|   |       ├───owl.carousel.min.js
+|   ├───tempusdomius
+|   |   ├───css
+|   |       ├───tempusdominus-bootstrap-4.css
+|   |       ├───tempusdominus-bootstrap-4.min.css
+|   ├───js
+|       ├───moment-timezone.minjs
+|       ├───moment.js
+|       ├───tempusdominus-bootstrap-4.js
+|       ├───tempusdominus-bootstrap-4.min.js
+|
+├───mail
+|   ├───contact.js
+|   ├───stylecontact.php
+|   ├───jqBoostrapValidation.min.js
+|
+├───scss
+|   ├───bootstrap
+|   ├───style.css
+|
+|───about.html
+├───blog.html
+├───contact.html
+├───david.html
+├───index.html
+├───Nicolas.html
+├───package.html
+├───README.md
+└───service.html
+```
 
 ## *Entregables:*
-Únicamente el líder del equipo realizará la entrega del taller por medio del aula virtual (Taller 2 y 3: Repositorios de
-código y Desarrollo web) y el entregable es:\
-• Documento que contenga (Portada, Introducción, Enlace al repositorio de GitHub, integrantes).\
-• Enlace a la página publicada con GitHub Pages.\
-• Capturas de pantalla de GitKraken donde se evidencien los aportes de cada integrante del equipo.\
-• Declaración de uso de Inteligencia Artificial.
+A. Documento: (Portada, link GitHub, link GitHub-Pages, equipo de trabajo).
 
+B. Evidencias: Capturas Git Kraken de los commits del quipo de trabajo.
+
+C. Documentación aportes, evidencias, codigo y Tree Unix.
 
 ## *Evaluación:*
 | Ítem | Puntos |
@@ -47,7 +105,7 @@ código y Desarrollo web) y el entregable es:\
 | User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
-| Subject: | Nuevas Tecnologias |
+| Subject: | Desarrollo De Nuevas Tecnologias |
 | Institution: | Fundación Universitaria Konrad Lorenz |
 | Institutional email | david.gutierrec@konradlorenz.edu.co |  
 
