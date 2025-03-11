@@ -9,7 +9,8 @@
 ## *Objetivo:* 
 OrionThech company, surge con la idea de innovar y desarrollar un nuevo espacio en el gran paradigma de la tecnología, abarcando campos como el desarrollo, 
 diseño, programación, visualización, analitica de datos entre otras. Estamos comenzando con uno de los pasos que necesitamos llegar a cubrir para llevar
-esta idea a ser de gran escala en los proximos años; logrando hitos clave en la planeación y estructuración de lo que será esta compañia.
+esta idea a ser de gran escala en los proximos años; logrando hitos clave en la planeación y estructuración de lo que será esta compañia, para ello se decide
+implementar la creación y uso de un aplicativo social denominado Social Network, como conexión y desarrollo de esta compañia.
 
 ## *Instalaciones requeridas:* 
     • Git: https://git-scm.com/downloads
@@ -17,15 +18,15 @@ esta idea a ser de gran escala en los proximos años; logrando hitos clave en la
     • GitHub: https://github.com/
 
 ## *Navegación:*
-• Nosotros: Presentación compañia OrionTech Company.
-• OrionTech: Diseño corporativo, información general y equipo de desarrollo.
-• Comunidad: Presentación de nuestros colaboradores.
-• Feed: Publicaciones y post de nuestros usuarios en social network.
-• Mas+: se divide en 3 secciones:
-         • OrionTech: Presentación Blog, perfil corporativo (noticias, eventos, post).
-         • Ing.David: Presentación perfil corporativo personal.
-         • Ing.Nicolas: Presentación perfil corporativo personal.
-• Contact: Formulario de contactenos OrionTech Company.
+• Nosotros: Presentación compañia OrionTech Company. \
+• OrionTech: Diseño corporativo, información general y equipo de desarrollo. \
+• Comunidad: Presentación de nuestros colaboradores. \
+• Feed: Publicaciones y post de nuestros usuarios en social network.\
+• Mas+: se divide en 3 secciones: \
+         | OrionTech: Presentación Blog, perfil corporativo (noticias, eventos, post). \
+         | Ing.David: Presentación perfil corporativo personal. \
+         | Ing.Nicolas: Presentación perfil corporativo personal. \
+• Contact: Formulario de contactenos OrionTech Company. 
 
 # *Unix tree:*
 ```Taller-2-Social-Networks
@@ -83,10 +84,8 @@ esta idea a ser de gran escala en los proximos años; logrando hitos clave en la
 ```
 
 ## *Entregables:*
-A. Documento: (Portada, link GitHub, link GitHub-Pages, equipo de trabajo).
-
-B. Evidencias: Capturas Git Kraken de los commits del quipo de trabajo.
-
+A. Documento: (Portada, link GitHub, link GitHub-Pages, equipo de trabajo). \
+B. Evidencias: Capturas Git Kraken de los commits del quipo de trabajo.\
 C. Documentación aportes, evidencias, codigo y Tree Unix.
 
 ## *Evaluación:*
